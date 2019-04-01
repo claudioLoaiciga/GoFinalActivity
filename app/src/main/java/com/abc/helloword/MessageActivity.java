@@ -19,7 +19,7 @@ public class MessageActivity extends AppCompatActivity {
         textView.setText(message);
     }
 
-
+/*metodos */
     public void goFinalActivity(View view) {
 
 
